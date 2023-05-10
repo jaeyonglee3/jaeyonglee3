@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Jaeyong 👋
 
 <!--
 **jaeyonglee3/jaeyonglee3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 🌱 About me 
+- Currently studying Computer Science at the University of Toronto
+
+## 📬 How to Reach Me! 
+- Linkedin: https://www.linkedin.com/in/jaeyong-lee/
+- Email: jaeyong.lee@mail.utoronto.ca

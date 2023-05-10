@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 - Currently studying Computer Science at the University of Toronto
 
 ## 📬 How to Reach Me! 
-- Linkedin: https://www.linkedin.com/in/jaeyong-lee/
 - Email: jaeyong.lee@mail.utoronto.ca
+- Linkedin: https://www.linkedin.com/in/jaeyong-lee/

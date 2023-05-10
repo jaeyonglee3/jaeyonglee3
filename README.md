@@ -1,4 +1,4 @@
-#### Hi there, I'm Jaeyong 👋
+# Hi there, I'm Jaeyong 👋
 
 <!--
 **jaeyonglee3/jaeyonglee3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

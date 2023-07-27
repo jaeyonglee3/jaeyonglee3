@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## 🌱 About me 
 - Studying Computer Science at the University of Toronto
 - Currently working on some cool projects at the Intelligent Adaptive Interventions Lab @ UofT
-- Interested in all things software and CS! From full-stack development to ML/AI and HCI.
+- Interested in all things software and CS! From full-stack development to ML/AI and HCI
 
 ## 📬 Reach out to me! 
 - Email: jaeyong.lee@mail.utoronto.ca

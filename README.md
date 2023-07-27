@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 - Currently working on cool software at the Intelligent Adaptive Interventions Lab @ UofT
 - Interested in all things software and CS! From full-stack development to ML/AI and HCI.
 
-## 📬 How to Reach Me! 
+## 📬 Reach out to me! 
 - Email: jaeyong.lee@mail.utoronto.ca
 - Linkedin: https://www.linkedin.com/in/jaeyong-lee/
